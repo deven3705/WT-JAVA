@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_programs/Area_shapes/Area_shapes.iml" filepath="$PROJECT_DIR$/Inheritance_programs/Area_shapes/Area_shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodE.iml" filepath="$PROJECT_DIR$/CodE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_programs/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Inheritance_programs/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_programs/calculator/calculator.iml" filepath="$PROJECT_DIR$/Inheritance_programs/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_programs/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/Inheritance_programs/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_programs/oddEven/oddEven.iml" filepath="$PROJECT_DIR$/Inheritance_programs/oddEven/oddEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_programs/sum_numbers/sum_numbers.iml" filepath="$PROJECT_DIR$/Inheritance_programs/sum_numbers/sum_numbers.iml" />
+    </modules>
+  </component>
+</project>
